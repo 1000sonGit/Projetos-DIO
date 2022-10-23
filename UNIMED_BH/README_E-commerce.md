@@ -1,0 +1,6 @@
+# Projeto Conceitual de Banco de dados Relacional - Digital Innovation One
+ ## Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+ 
+ ### **Descrição**:
+ Modelo reduzido de um e-commerce cuja inteção é efetuar a venda de produtos utilizando os dados do banco de dados.
+
